@@ -7,4 +7,10 @@
 123123123
 qqqqqq
 aaaaaa
+<<<<<<< HEAD
 qqqqqq
+=======
+
+
+dddddddd
+>>>>>>> 7175656281b890b2ad851c0769275ae430422b1e
